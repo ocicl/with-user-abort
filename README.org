@@ -1,0 +1,10 @@
+* with-user-abort
+
+provides a nice, portable way to capture user-interrupt signals in lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/theZacAttacks/with-user-abort.git   |
+| commit  | a3db02e  |
+| systems | with-user-abort |
+|---------+-------------------------------------------|
+
